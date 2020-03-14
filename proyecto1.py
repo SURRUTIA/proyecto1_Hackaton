@@ -1,1 +1,1 @@
-Print("Bienvenido al proyecto 1 ")
+print("Bienvenido al proyecto 1 ")
